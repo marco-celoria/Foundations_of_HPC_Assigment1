@@ -2,7 +2,6 @@
 #include "mpi.h"
 #include <string.h>
 #include <stdlib.h>
-// mpirun -np 8 comm_on_ring.x 10 2>/dev/null | sort 1> ring_result.txt
 
 int main(int argc,char ** argv )
 {

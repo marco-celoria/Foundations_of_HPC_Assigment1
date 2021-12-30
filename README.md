@@ -1,1 +1,3 @@
-# Foundations_of_HPC_Assigment1
+# Foundations of HPC: Assigment 1
+
+Marco Celoria - MHPC 
